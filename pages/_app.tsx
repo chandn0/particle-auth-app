@@ -8,7 +8,7 @@ function MyApp({ Component, pageProps }: AppProps) {
             options={{
                 projectId: 'd62710ee-82d2-4399-81c5-a057d0424004',
                 clientKey: 'cZgJnecHZAyXRewgy3NWtMGEdgrUnxcfah6lI6qe',
-                appId: 'Your Particle Project App ID',
+                appId: 'b7c71a71-997e-4765-a56a-62c7e4c0214d',
             }}
         >
             <Component {...pageProps} />
