@@ -6,8 +6,8 @@ function MyApp({ Component, pageProps }: AppProps) {
     return (
         <AuthCoreContextProvider
             options={{
-                projectId: 'Your Particle Project ID',
-                clientKey: 'Your Particle Project Client Key',
+                projectId: 'd62710ee-82d2-4399-81c5-a057d0424004',
+                clientKey: 'cZgJnecHZAyXRewgy3NWtMGEdgrUnxcfah6lI6qe',
                 appId: 'Your Particle Project App ID',
             }}
         >
