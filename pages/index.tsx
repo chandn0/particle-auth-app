@@ -54,40 +54,12 @@ const Home: NextPage = () => {
                     </>
                 )}
 
-                <h1 className={styles.title}>
-                    Welcome to <a href="https://particle.network">Particle Network!</a>
-                </h1>
-
-                <p className={styles.description}>
-                    Get started by editing <code className={styles.code}>pages/index.tsx</code>
-                </p>
-
-                <div className={styles.grid}>
-                    <a href="https://docs.particle.network" className={styles.card}>
-                        <h2>Documentation &rarr;</h2>
-                        <p>Find in-depth information about AuthCore features and API.</p>
-                    </a>
-
-                    <a href="https://dashboard.particle.network" className={styles.card}>
-                        <h2>Dashboard &rarr;</h2>
-                        <p>Manage your projects and team, View analytics data, Custom configuration.</p>
-                    </a>
-
-                    <a href="https://github.com/Particle-Network/particle-web-auth-core" className={styles.card}>
-                        <h2>Examples &rarr;</h2>
-                        <p>Discover and deploy boilerplate example AuthCore projects.</p>
-                    </a>
-
-                    <a href="https://particle.network" className={styles.card}>
-                        <h2>Website &rarr;</h2>
-                        <p>Particle Network, The Intent-Centric Modular Access Layer of Web3.</p>
-                    </a>
-                </div>
+                
             </main>
 
             <footer className={styles.footer}>
-                <span className={styles.logo}>
-                    <Image src="/footer_img.png" alt="Particle Logo" width={240} height={24} />
+                <span>
+                in beta 
                 </span>
             </footer>
         </div>
